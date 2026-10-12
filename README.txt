@@ -1,8 +1,6 @@
 *README.txt*                                ID's plain text format for documents
                                                                    Author: CToID
 
-_ The project has been moved to https://sourceforge.net/projects/ddoc _
-
 A basic and simple plain text format for writing documents.
 
 Basic structure and format of the document:
