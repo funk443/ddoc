@@ -61,6 +61,8 @@ Basic structure and format of the document:
     |[1]: somepath/with/space/image 1.png                                      |
     +--------------------------------------------------------------------------+
 
+It is fine if the content exceeds the line width, but this should be avoided.
+
 Lists or tables? Just put them into codeblocks.
 
 Emphasize text? Use _whatever_ you want, but not backticks! I personally prefer
