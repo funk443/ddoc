@@ -5,7 +5,7 @@ A basic and simple plain text format for writing documents.
 
 Basic structure and format of the document:
 
-                                      80 chars
+                80 chars (or whatever the title line's width is)
     |<------------------------------------------------------------------------>|
     +--------------------------------------------------------------------------+
     |*Filename.txt*                                                  Title here|
