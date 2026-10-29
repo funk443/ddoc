@@ -56,7 +56,12 @@ Basic structure and format of the document:
     |paragraph some cool image[1]. Note that reference numbering restarts from |
     |1 in each section.                                                        |
     |                                                                          |
-    |Any thing (space included) behind `:` in the reference is valid.          |
+    |Anything (except newline) behind `:` in the reference is valid. Leading   |
+    |spaces are ignored.                                                       |
+    |                                                                          |
+    |Things between backticks may be displayed specially, like backticks in    |
+    |Markdown. To use backticks in backticks, write two consecutive backticks, |
+    |just like escaping a single quote in SQL.                                 |
     |                                                                          |
     |[1]: somepath/with/space/image 1.png                                      |
     +--------------------------------------------------------------------------+
